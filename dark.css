@@ -12,6 +12,7 @@
   line-height: 1.5;
   word-wrap: break-word;
   scroll-behavior: auto !important;
+  height: 100%;
 }
 
 .markdown-body .octicon {
