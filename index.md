@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="dark.css">
 
-# Sreeram Rave
+## About Me
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
 My interests are low-level programming, FPGAs, and Game Development.
