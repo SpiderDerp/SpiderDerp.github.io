@@ -1,6 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="dark.css">
-	
 ## About Me
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
