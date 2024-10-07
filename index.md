@@ -20,7 +20,7 @@ An alternative take on the traditional turn-based combat formula used in games.
 
 A controller that can steer and accelerate a car by tilting it.
 
-**Made Using: TTL Chips, Gyroscope Chip, RPi Pico, Arduino IDE** 
+**Made Using: **TTL Chips, Gyroscope Chip, RPi Pico, Arduino IDE
 
 [View Here](https://drive.google.com/file/d/107fnsYd8tKXBt2Vku7593nw2kLQ-Qgvp/view?usp=drivesdk)
 
@@ -29,7 +29,7 @@ A controller that can steer and accelerate a car by tilting it.
 
 A Pokemon Battle Engine that can run on a TI-84 Plus CE calculator
 
-**Made Using: C** 
+**Made Using: **C
 
 [View Here](https://github.com/SpiderDerp/TImon)
 
