@@ -35,4 +35,4 @@ A Pokemon Battle Engine that can run on a TI-84 Plus CE calculator
 
 
 ## Contact Me
-srave2@illinois.edu
+<srave2@illinois.edu>
