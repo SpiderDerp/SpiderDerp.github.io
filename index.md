@@ -1,5 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3432795932998275"
-     crossorigin="anonymous"></script>
 ## About Me
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
