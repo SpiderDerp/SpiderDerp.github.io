@@ -7,6 +7,15 @@ My interests are low-level programming, FPGAs, and Game Development.
 
 ## Projects
 
+**<ins>Infinity Slime Dungeon</ins>**
+
+A rogue-lite Idle RPG made for web browsers.
+
+**Made Using:** C#, Unity
+
+[View Here](https://antiveninstudios.itch.io/infinity-slime-dungeon)
+
+
 **<ins>Card Battle Engine</ins>**
 
 An alternative take on the traditional turn-based combat formula used in games.
