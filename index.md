@@ -1,11 +1,25 @@
 ## About Me
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
 
-My interests are low-level programming, FPGAs, and Game Development.
+My interests are Embedded Programming, FPGAs, and Game Development.
 
-[Resume](https://drive.google.com/file/d/1CvSHIow5fNI0qdiq6odZAqgQDitOAY2E/view?usp=drivesdk)
+[Resume](https://drive.google.com/file/d/1k4fDQNrS-R9lDFCfClelDqWywz9Un8lw/view?usp=sharing)
 
 ## Projects
+
+**<ins>RISC-V Operating System (Rizz-V)</ins>**
+
+Custom operating system for the RISC-V architecture capable of running user-space applications such as a shell, DOOM, and other compatible games.
+
+**Made Using:** C, RISC-V Assembly
+
+
+**<ins>FPGA GameBoy Emulator</ins>**
+
+Functional Game Boy emulator on the Spartan-7 FPGA written with SystemVerilog
+
+**Made Using:** SystemVerilog, C
+
 
 **<ins>Infinity Slime Dungeon</ins>**
 
@@ -14,15 +28,6 @@ A rogue-lite Idle RPG made for web browsers.
 **Made Using:** C#, Unity
 
 [View Here](https://antiveninstudios.itch.io/infinity-slime-dungeon)
-
-
-**<ins>Card Battle Engine</ins>**
-
-An alternative take on the traditional turn-based combat formula used in games.
-
-**Made Using:** C#, Unity
-
-[View Here](https://antiveninstudios.itch.io/card-be)
 
 
 **<ins>Tilt-Controlled Car</ins>**
