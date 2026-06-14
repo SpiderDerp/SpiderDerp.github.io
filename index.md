@@ -46,6 +46,7 @@ Synthesizable state-machined 4-way set-associative cache with a pseudo-LRU repla
 **Made Using:** SystemVerilog
 
 **<ins>5-Stage Pipelined RV32I Processor</ins>**
+
 Synthesizable 5-stage RV32I processor with full hazard detection, data forwarding, stall control, and branch flush logic, verified for ISA compliance with Spike RVFI, directed tests, and CoreMark, targeting 500 MHz-class timing.
 
 **Made Using:** SystemVerilog, RISC-V
