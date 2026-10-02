@@ -1,15 +1,18 @@
 ## About Me
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
-My interests are Computer Architecture, FPGAs, ML, and Game Development.
+My interests are Computer Architecture, FPGAs, AI/ML, and Game Development.
 
-[Resume](https://drive.google.com/file/d/1anMvopwpvnrFpg022eFtYZ2TAQFPYWNW/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/19Zy29acYEnLFxzpwgyApRAKto-gcUt8E/view?usp=sharing)
 
 ## Projects
+
 **<ins>2-Wide Out-of-Order RV32IM Processor</ins>**
 
 Collaborated in a team of 3 to architect and verify a 2-wide superscalar out-of-order RV32IM processor with a speculative front-end (pipelined I-cache, stream-buffer prefetcher, GShare predictor, BTB, RAS) and a split LSQ with CAM-based memory disambiguation, synthesizing at 550 MHz and achieving up to 1.27 IPC.
 
 **Made Using:** SystemVerilog
+
+[View Here](https://drive.google.com/file/d/1I2MUACuz7DHK3qHnji96pkg6UzlEPcnO/view?usp=sharing)
 
 **<ins>FPGA Game Boy Advance Emulator</ins>**
 
@@ -39,6 +42,10 @@ Android application to separate vocal and instrumental tracks using the REPET al
 
 **Made Using:** Python, Java, C++
 
+[View Here](https://github.com/SpiderDerp/BeatPeeler)
+
+**Made Using:** Python, Java, C++
+
 **<ins>4-Way Set-Associative Blocking Cache</ins>**
 
 Synthesizable state-machined 4-way set-associative cache with a pseudo-LRU replacement policy, OpenRAM-generated SRAM hard IPs for data/tag arrays, and a SystemVerilog testbench using constrained random testing and covergroups for full coverage.
@@ -63,14 +70,6 @@ Functional Game Boy emulator on the Spartan-7 FPGA written with SystemVerilog
 
 **Made Using:** SystemVerilog, C
 
-**<ins>Infinity Slime Dungeon</ins>**
-
-A rogue-lite Idle RPG made for web browsers.
-
-**Made Using:** C#, Unity
-
-[View Here](https://antiveninstudios.itch.io/infinity-slime-dungeon)
-
 **<ins>Tilt-Controlled Car</ins>**
 
 A controller that can steer and accelerate a car by tilting it.
@@ -78,6 +77,32 @@ A controller that can steer and accelerate a car by tilting it.
 **Made Using:** TTL Chips, Gyroscope Chip, RPi Pico, Arduino IDE
 
 [View Here](https://drive.google.com/file/d/107fnsYd8tKXBt2Vku7593nw2kLQ-Qgvp/view?usp=drivesdk)
+
+## Games
+
+**<ins>Lean60</ins>**
+
+A 60 second 2D platformer made for browsers.
+
+**Made Using:** C#, Unity, JavaScript, WebGL
+
+[Play Here](https://spiderderp.github.io/Lean60/)
+
+**<ins>Infinity Slime Dungeon</ins>**
+
+A rogue-lite Idle RPG made for web browsers.
+
+**Made Using:** C#, Unity
+
+[Play Here](https://antiveninstudios.itch.io/infinity-slime-dungeon)
+
+**<ins>Rocket Math</ins>**
+
+An arcade-style math game where you solve math problems to propel your rocket. Made for web browsers.
+
+**Made Using:** C#, Unity
+
+[Play Here](https://antiveninstudios.itch.io/rocket-math)
 
 **<ins>TImon</ins>**
 
