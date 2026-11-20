@@ -2,7 +2,7 @@
 Hi! My name is Sreeram Rave and I am currently studying Computer Engineering at the University of Illinois Urbana-Champaign.
 My interests are Computer Architecture, FPGAs, AI/ML, and Game Development.
 
-[Resume](https://drive.google.com/file/d/19Zy29acYEnLFxzpwgyApRAKto-gcUt8E/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1dMH1fuOJVjWF2rjULwasxJjHsdsHMObC/view?usp=drivesdk)
 
 ## Projects
 
